@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\DoAn\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DoAn\Menu\obj\Debug\DoAnWinFormSinhVien.FormHeThong.resources
+C:\Users\USER\source\repos\DoAn\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\USER\source\repos\DoAn\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\DoAn\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DoAn\Menu\bin\Debug\Menu.exe.config
+C:\Users\USER\source\repos\DoAn\Menu\bin\Debug\Menu.exe
+C:\Users\USER\source\repos\DoAn\Menu\bin\Debug\Menu.pdb
+C:\Users\USER\source\repos\DoAn\Menu\obj\Debug\Menu.exe
+C:\Users\USER\source\repos\DoAn\Menu\obj\Debug\Menu.pdb
